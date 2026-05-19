@@ -10,7 +10,7 @@ AI practitioner and consultant. I help small and mid-sized businesses close the 
 
 **[DriftStatements](https://driftstatements.com)** — Loan servicing and statement automation for private money lenders. Built solo from scratch: custom financial calculation engine (pure Python, zero external libraries), event-sourced ledger, configurable day count conventions, multi-tenant org system, Stripe billing, and automated PDF statement delivery. 597 commits across 3 months. 2,071 tests, 800+ exact-value financial assertions. Stack: FastAPI · PostgreSQL · SQLAlchemy 2.0 · HTMX · ReportLab · pytest. Pre-launch.
 
-**[followupboss-mcp](https://github.com/LazyRiverLaz/followupboss-mcp)** — MCP server connecting Claude Code directly to Follow Up Boss CRM. Contact lookup, task management, note logging, bulk operations. Built for a real estate investor managing 10,000+ contacts. TypeScript · `@modelcontextprotocol/sdk` · Zod.
+**[followupboss-mcp](https://github.com/LazyRiverLaz/followupboss-mcp)** — MCP server connecting Claude Code directly to Follow Up Boss CRM. Contact lookup, task management, note logging, bulk operations. Built for a real estate broker managing 10,000+ contacts. TypeScript · `@modelcontextprotocol/sdk` · Zod.
 
 ---
 
